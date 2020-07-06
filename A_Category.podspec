@@ -7,7 +7,7 @@
 #
 
 Pod::Spec.new do |s|
-  s.name             = 'A_Category'
+  s.name             = 'LWG_A_Category'
   s.version          = '0.0.1'
   s.summary          = 'Category for A.'
 
